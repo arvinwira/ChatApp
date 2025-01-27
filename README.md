@@ -3,7 +3,7 @@
 A real-time chat application built with the MERN stack (MongoDB, Express.js, React, and Node.js), developed as part of my journey to master web development.
 
 ## 📺 Project Inspiration
-This project was created to learn full-stack development by following tutorials from [As a Programmer YouTube Channel](https://www.youtube.com/@AsaProgrammer). 
+This project was created to learn full-stack development by following tutorials from [As a Programmer YouTube Channel](https://www.youtube.com/@asaprogrammer_). 
 
 ## Features
 - 💬 Real-time messaging
