@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.avatar img {
+  transition: transform 0.2s ease;
+}
+
+.avatar:hover img {
+  transform: scale(1.05);
+}
+
+.status-badge {
+  transition: opacity 0.2s ease;
+}
